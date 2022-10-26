@@ -1,0 +1,5 @@
+insert into clientes(document_type,document,name,last_name,email,phone) values('NIE','Y9330078X','Esmeralda','Diaz Vesga','emailprueba@gmail.com','4444444')
+insert into clientes(document_type,document,name,last_name,email,phone) values('NIE','R3454323P','Paola','Sanchez Arana','emailprueba@gmail.com','3333333')
+insert into clientes(document_type,document,name,last_name,email,phone) values('NIE','T98746543J','Maria','Lopez Caceres','emailprueba@gmail.com','8888888')
+insert into clientes(document_type,document,name,last_name,email,phone) values('NIE','Q9876543H','Raul','Paez Saenz','emailprueba@gmail.com','7777777')
+insert into clientes(document_type,document,name,last_name,email,phone) values('NIE','K7654329W','Sofia','Cruz Ramirez','emailprueba@gmail.com','1111111')
